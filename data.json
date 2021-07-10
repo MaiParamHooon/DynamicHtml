@@ -1,0 +1,17 @@
+{
+	"men": {
+		"name": "Param",
+		"posts": [
+			{
+				"title": "sheldon"
+			},
+			{
+				"hugdo": "taran"
+			}
+		]
+	},
+	"women": {
+		"name": "Taran",
+		"subtitle": "jeet"
+	}
+}
